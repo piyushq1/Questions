@@ -1,0 +1,96 @@
+<p class="cmb2-metabox-description">Enter email content. You can add variables: {{user_name}}, {{user_email}}, {{website_url}}, {{website_name}}</p>
+
+	</div>
+</div><hr><div class="cmb-row cmb-type-wp-job-board-pro-title cmb2-id-wp-job-board-pro-title-user-reset-password" data-fieldtype="wp_job_board_pro_title">
+<div class="cmb-th">
+<label for="wp_job_board_pro_title_user_reset_password">Reset Password</label>
+</div>
+	<div class="cmb-td">
+
+	</div>
+</div><hr><div class="cmb-row cmb-type-text cmb2-id-user-reset-password-subject table-layout" data-fieldtype="text">
+<div class="cmb-th">
+<label for="user_reset_password_subject">Reset Password Subject</label>
+</div>
+	<div class="cmb-td">
+<input type="text" class="regular-text" name="user_reset_password_subject" id="user_reset_password_subject" value="Your new password" data-hash='5vu8e2ogvts0'/>
+<p class="cmb2-metabox-description">Enter email subject. You can add variables: {{user_name}}</p>
+
+	</div>
+</div><div class="cmb-row cmb-type-wysiwyg cmb2-id-user-reset-password-content" data-fieldtype="wysiwyg">
+<div class="cmb-th">
+<label for="user_reset_password_content">Reset Password Content</label>
+</div>
+	<div class="cmb-td">
+<div id="wp-user_reset_password_content-wrap" class="wp-core-ui wp-editor-wrap tmce-active"><div id="wp-user_reset_password_content-editor-tools" class="wp-editor-tools hide-if-no-js"><div id="wp-user_reset_password_content-media-buttons" class="wp-media-buttons"><button type="button" class="button insert-media add_media" data-editor="user_reset_password_content"><span class="wp-media-buttons-icon"></span> Add Media</button></div>
+<div class="wp-editor-tabs"><button type="button" id="user_reset_password_content-tmce" class="wp-switch-editor switch-tmce" data-wp-editor-id="user_reset_password_content">Visual</button>
+<button type="button" id="user_reset_password_content-html" class="wp-switch-editor switch-html" data-wp-editor-id="user_reset_password_content">Text</button>
+</div>
+</div>
+<div id="wp-user_reset_password_content-editor-container" class="wp-editor-container"><div id="qt_user_reset_password_content_toolbar" class="quicktags-toolbar hide-if-no-js"></div><textarea class="wp-editor-area" rows="20" autocomplete="off" cols="40" name="user_reset_password_content" id="user_reset_password_content">&amp;nbsp;
+&lt;div style="background-color: #eeeeef;padding: 50px 0" data-darkreader-inline-bgcolor=""&gt;
+&lt;table style="max-width: 640px" border="0" cellspacing="0" cellpadding="0" align="center"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="top"&gt;&lt;!-- Body --&gt;
+&lt;table id="template_body" border="0" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td id="mailtpl_body_bg" style="background-color: #fafafa" valign="top" data-darkreader-inline-bgcolor=""&gt;&lt;!-- Content --&gt;
+&lt;table border="0" width="100%" cellspacing="0" cellpadding="20"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;Hello {{user_name}} ,
+
+This notice confirms that your password change request is received.
+&lt;h5&gt;Information&lt;/h5&gt;
+&lt;table class="blueTable"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Username&lt;/td&gt;
+&lt;td&gt;{{user_name}}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;User Email&lt;/td&gt;
+&lt;td&gt;{{user_email}}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;New Password&lt;/td&gt;
+&lt;td&gt;{{new_password}}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="top"&gt;
+&lt;table id="template_footer" style="border-top: 1px solid #E2E2E2;background: #eee;border-radius: 0px 0px 6px 6px" border="0" width="100%" cellspacing="0" cellpadding="10" data-darkreader-inline-border-top="" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor=""&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;table border="0" width="100%" cellspacing="0" cellpadding="10"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td id="credit" style="border: 0;color: #777;font-family: Arial;font-size: 12px;line-height: 125%;text-align: center" colspan="2" valign="middle" data-darkreader-inline-border-top="" data-darkreader-inline-border-right="" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-color=""&gt;&lt;a href="{{website_url}}"&gt;{{website_name}}&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- End Footer --&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&amp;nbsp;</textarea></div>
+</div>
